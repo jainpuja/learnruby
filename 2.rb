@@ -12,6 +12,8 @@ plural_nown = gets.chomp
 puts "Enter a Celibirity"
 Celebrity = gets.chomp
 
+
+
 puts "Roses are " + color 
 puts plural_nown + " are Blue"
 puts "I Love " + Celebrity
