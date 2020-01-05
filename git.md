@@ -16,3 +16,4 @@ Usefull commands:-
 git pull & push allows to sync the code between them ie. between local git & github git, eg.Group exps 
 git is a software or a technology, github uses git & gives us a free space to store the files...
 practise pull requests
+commit is the changes which you make in git
