@@ -1,4 +1,4 @@
-git = helps in maintaining the versions, changes in a file
+ git = helps in maintaining the versions, changes in a file
 It is a distributed versioning system
 github = It is a centralised git service which allows you to upload project files & share it with others.
 It allows you to collabrate on the same project with others.
@@ -17,3 +17,7 @@ git pull & push allows to sync the code between them ie. between local git & git
 git is a software or a technology, github uses git & gives us a free space to store the files...
 practise pull requests
 commit is the changes which you make in git
+The above order shall be followed everytime when we make changes in files ie. local git.
+Everytime before push local master should have all the changes of github master & then only push can be sucessfully used, otherwise it will fail with msg "fetch first"
+push 
+pull request only if there is any changes in branch & not masters.

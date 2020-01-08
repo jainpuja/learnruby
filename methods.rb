@@ -60,4 +60,3 @@ sum
 
 # change = payMoney(200, 194)
 # puts "I got back chnage of #{change}"
-
